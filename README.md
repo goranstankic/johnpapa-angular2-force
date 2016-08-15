@@ -2,7 +2,7 @@
 
 [View the presentation here](https://www.youtube.com/watch?v=WAPQF_GA7Qg&index=2&list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)
 
-Clone it and run it!
+Clone it and run it! Test!
 
 ```bash
 npm install
